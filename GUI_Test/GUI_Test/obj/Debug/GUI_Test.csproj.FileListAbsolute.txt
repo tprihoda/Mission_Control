@@ -1,0 +1,16 @@
+C:\Users\Thomas Prihoda\source\repos\GUI_Test\GUI_Test\bin\Debug\GUI_Test.exe
+C:\Users\Thomas Prihoda\source\repos\GUI_Test\GUI_Test\bin\Debug\GUI_Test.pdb
+C:\Users\Thomas Prihoda\source\repos\GUI_Test\GUI_Test\obj\Debug\GUI_Test.csprojAssemblyReference.cache
+C:\Users\Thomas Prihoda\source\repos\GUI_Test\GUI_Test\obj\Debug\MainWindow.g.cs
+C:\Users\Thomas Prihoda\source\repos\GUI_Test\GUI_Test\obj\Debug\App.g.cs
+C:\Users\Thomas Prihoda\source\repos\GUI_Test\GUI_Test\obj\Debug\GUI_Test_MarkupCompile.cache
+C:\Users\Thomas Prihoda\source\repos\GUI_Test\GUI_Test\obj\Debug\GUI_Test_MarkupCompile.lref
+C:\Users\Thomas Prihoda\source\repos\GUI_Test\GUI_Test\obj\Debug\MainWindow.baml
+C:\Users\Thomas Prihoda\source\repos\GUI_Test\GUI_Test\obj\Debug\GUI_Test.g.resources
+C:\Users\Thomas Prihoda\source\repos\GUI_Test\GUI_Test\obj\Debug\GUI_Test.Properties.Resources.resources
+C:\Users\Thomas Prihoda\source\repos\GUI_Test\GUI_Test\obj\Debug\GUI_Test.csproj.GenerateResource.cache
+C:\Users\Thomas Prihoda\source\repos\GUI_Test\GUI_Test\obj\Debug\GUI_Test.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Prihoda\source\repos\GUI_Test\GUI_Test\obj\Debug\GUI_Test.exe
+C:\Users\Thomas Prihoda\source\repos\GUI_Test\GUI_Test\obj\Debug\GUI_Test.pdb
+C:\Users\Thomas Prihoda\source\repos\GUI_Test\GUI_Test\obj\Debug\Popup.g.cs
+C:\Users\Thomas Prihoda\source\repos\GUI_Test\GUI_Test\obj\Debug\Popup.baml
